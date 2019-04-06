@@ -1,6 +1,6 @@
 # SANPO Robot
 
-![](D:\Data\Career\Research\Robot\SANPO Robot\2D Model\image\SANPO-Robot.jpg)
+![image](https://github.com/pclin/SANPO-Robot/blob/master/image/SANPO-Robot.jpg)
 
 SANPO Robot is a 6DoF biped robot with two arms.
 
