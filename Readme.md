@@ -1,5 +1,7 @@
 # SANPO Robot
 
+![](D:\Data\Career\Research\Robot\SANPO Robot\2D Model\image\SANPO-Robot.jpg)
+
 SANPO Robot is a 6DoF biped robot with two arms.
 
 Inspired by Otto Robot (<https://www.ottodiy.com>).
