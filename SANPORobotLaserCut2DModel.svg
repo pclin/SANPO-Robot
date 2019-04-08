@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="207.06mm" height="293.06mm" viewBox="0 0 207.06 293.06" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch025" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<svg width="206.142mm" height="293.042mm" viewBox="0 0 206.142 293.042" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch025" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch025_w0000"  d="M 19.0 269.25 L 19.0 283.0 A 2 2 0 0 0 21 285L 36.0 285.0 A 2 2 0 0 1 38 287L 38.0 294.0 L 5.0 294.0 L 5.0 269.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch025_w0001"  d="M 5.0 268.75 L 5.0 244.0 A 2 2 0 0 1 7 242L 36.0 242.0 A 2 2 0 0 1 38 244L 38.0 249.0 A 2 2 0 0 1 36 251L 21.0 251.0 A 2 2 0 0 0 19 253L 19.0 268.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <circle cx="21.5" cy="289.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
@@ -13,71 +13,102 @@
 <path id="Sketch025_w0008"  d="M 12.0 257.0 L 13.0 258.732050808 L 11.0 258.732050808 L 12.0 257.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch017</title>
 </g>
-<g id="Sketch083" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch083_w0000"  d="M 97.0 124.250000637 L 97.0 131.0 A 2 2 0 0 0 99 133L 111.0 133.0 A 2 2 0 0 1 113 135L 113.0 149.0 L 116.0 149.0 L 116.0 152.0 L 123.0 152.0 L 123.0 149.0 L 126.0 149.0 L 126.0 124.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch083_w0001"  d="M 126.0 123.75 L 126.0 99.0 L 123.0 99.0 L 123.0 96.0 L 116.0 96.0 L 116.0 99.0 L 113.0 99.0 L 113.0 113.0 A 2 2 0 0 1 111 115L 99.0 115.0 A 2 2 0 0 0 97 117L 97.0 123.750000637 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="106.0" cy="124.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch083</title>
-</g>
-<g id="Sketch062" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch062_w0000"  d="M 34.0 180.749999817 L 34.0 173.999999634 A 2 2 0 0 0 32 172L 20.0 172.0 A 2 2 0 0 1 18 170L 18.0 156.0 L 15.0 156.0 L 15.0 153.0 L 8.0 153.0 L 8.0 156.0 L 5.0 156.0 L 5.0 180.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch062_w0001"  d="M 5.0 181.25 L 5.0 206.0 L 8.0 206.0 L 8.0 209.0 L 15.0 209.0 L 15.0 206.0 L 18.0 206.0 L 18.0 192.0 A 2 2 0 0 1 20 190L 32.0 190.0 A 2 2 0 0 0 34 188L 34.0 181.249999817 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="25.0" cy="181.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch062</title>
-</g>
-<g id="Sketch063" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch063_w0000"  d="M 35.0 181.250000625 L 35.0 188.0 A 2 2 0 0 0 37 190L 49.0 190.0 A 2 2 0 0 1 51 192L 51.0 206.0 L 54.0 206.0 L 54.0 209.0 L 61.0 209.0 L 61.0 206.0 L 64.0 206.0 L 64.0 181.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch063_w0001"  d="M 64.0 180.75 L 64.0 156.0 L 61.0 156.0 L 61.0 153.0 L 54.0 153.0 L 54.0 156.0 L 51.0 156.0 L 51.0 170.0 A 2 2 0 0 1 49 172L 37.0 172.0 A 2 2 0 0 0 35 174L 35.0 180.750000625 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="44.0" cy="181.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch063</title>
-</g>
-<g id="Sketch067" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<g id="Sketch067" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch067_w0000"  d="M 49.0 199.75 L 49.0 191.0 L 22.0 191.0 A 2 2 0 0 0 20 193L 20.0 199.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch067_w0001"  d="M 20.0 200.25 L 20.0 207.0 A 2 2 0 0 0 22 209L 49.0 209.0 L 49.0 200.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch067_w0002"  d="M 29.3431192661 203.382642335 L 45.5266055046 201.741065908 A 1.75 1.75 0 0 0 45.5266 198.259L 29.3431192661 196.617357665 A 3.4 3.4 0 1 0 29.3431 203.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch067</title>
 </g>
-<g id="Sketch064" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<g id="Sketch052" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch052_w0000"  d="M 94.0 50.25 L 94.0 80.0 A 15 15 0 0 0 109 95L 169.0 95.0 A 15 15 0 0 0 184 80L 184.0 50.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0001"  d="M 94.0 49.75 L 94.0 20.0 A 15 15 0 0 1 109 5L 169.0 5.0 A 15 15 0 0 1 184 20L 184.0 49.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0002"  d="M 129.0 11.0 L 149.0 11.0 L 149.0 8.0 L 129.0 8.0 L 129.0 11.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="104.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="174.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="107.0" cy="20.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="171.0" cy="20.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch052_w0007"  d="M 97.0 34.0 L 104.0 34.0 L 104.0 31.0 L 97.0 31.0 L 97.0 34.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0008"  d="M 174.0 34.0 L 181.0 34.0 L 181.0 31.0 L 174.0 31.0 L 174.0 34.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0009"  d="M 129.0 55.0 L 129.0 45.0 A 2.5 2.5 0 1 1 134 45L 134.0 55.0 A 2.5 2.5 0 1 1 129 55" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0010"  d="M 144.0 55.0 L 144.0 45.0 A 2.5 2.5 0 1 1 149 45L 149.0 55.0 A 2.5 2.5 0 1 1 144 55" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0011"  d="M 104.0 62.5 L 116.1 62.5 L 116.1 40.0 L 104.0 40.0 L 104.0 62.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0012"  d="M 161.9 62.5 L 174.0 62.5 L 174.0 40.0 L 161.9 40.0 L 161.9 62.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="110.05" cy="65.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="110.05" cy="37.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="167.95" cy="37.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="167.95" cy="65.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch052_w0017"  d="M 138.0 36.7320508076 L 139.0 35.0 L 140.0 36.7320508076 L 138.0 36.7320508076 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0018"  d="M 97.0 75.0 L 104.0 75.0 L 104.0 72.0 L 97.0 72.0 L 97.0 75.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch052_w0019"  d="M 174.0 75.0 L 181.0 75.0 L 181.0 72.0 L 174.0 72.0 L 174.0 75.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch052</title>
+</g>
+<g id="Sketch062" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch062_w0000"  d="M 34.0 180.749999817 L 34.0 173.999999634 A 2 2 0 0 0 32 172L 20.0 172.0 A 2 2 0 0 1 18 170L 18.0 156.0 L 15.0 156.0 L 15.0 153.0 L 8.0 153.0 L 8.0 156.0 L 5.0 156.0 L 5.0 180.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch062_w0001"  d="M 5.0 181.25 L 5.0 206.0 L 8.0 206.0 L 8.0 209.0 L 15.0 209.0 L 15.0 206.0 L 18.0 206.0 L 18.0 192.0 A 2 2 0 0 1 20 190L 32.0 190.0 A 2 2 0 0 0 34 188L 34.0 181.249999817 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="25.0" cy="181.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch062</title>
+</g>
+<g id="Sketch063" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch063_w0000"  d="M 35.0 181.250000625 L 35.0 188.0 A 2 2 0 0 0 37 190L 49.0 190.0 A 2 2 0 0 1 51 192L 51.0 206.0 L 54.0 206.0 L 54.0 209.0 L 61.0 209.0 L 61.0 206.0 L 64.0 206.0 L 64.0 181.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch063_w0001"  d="M 64.0 180.75 L 64.0 156.0 L 61.0 156.0 L 61.0 153.0 L 54.0 153.0 L 54.0 156.0 L 51.0 156.0 L 51.0 170.0 A 2 2 0 0 1 49 172L 37.0 172.0 A 2 2 0 0 0 35 174L 35.0 180.750000625 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="44.0" cy="181.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch063</title>
+</g>
+<g id="Sketch064" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch064_w0000"  d="M 49.0 161.75 L 49.0 153.0 L 22.0 153.0 A 2 2 0 0 0 20 155L 20.0 161.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch064_w0001"  d="M 20.0 162.25 L 20.0 169.0 A 2 2 0 0 0 22 171L 49.0 171.0 L 49.0 162.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch064_w0002"  d="M 29.3431192661 165.382642335 L 45.5266055046 163.741065908 A 1.75 1.75 0 0 0 45.5266 160.259L 29.3431192661 158.617357665 A 3.4 3.4 0 1 0 29.3431 165.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch064</title>
 </g>
-<g id="Sketch084" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch084_w0000"  d="M 105.0 142.750000042 L 105.0 136.000000085 A 2 2 0 0 0 103 134L 91.0 134.0 A 2 2 0 0 1 89 132L 89.0 118.0 L 86.0 118.0 L 86.0 115.0 L 79.0 115.0 L 79.0 118.0 L 76.0 118.0 L 76.0 142.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch084_w0001"  d="M 76.0 143.25 L 76.0 168.0 L 79.0 168.0 L 79.0 171.0 L 86.0 171.0 L 86.0 168.0 L 89.0 168.0 L 89.0 154.0 A 2 2 0 0 1 91 152L 103.0 152.0 A 2 2 0 0 0 105 150L 105.0 143.250000042 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="96.0" cy="143.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch084</title>
+<g id="Sketch042" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch042_w0000"  d="M 202.0 174.25 L 202.0 152.0 L 198.0 152.0 L 198.0 155.0 L 194.5 155.0 L 194.5 158.0 L 195.8 158.0 L 195.8 160.5 L 194.5 160.5 L 194.5 163.0 L 191.5 163.0 L 191.5 160.5 L 190.2 160.5 L 190.2 158.0 L 191.5 158.0 L 191.5 155.0 L 188.0 155.0 L 188.0 152.0 L 184.0 152.0 L 184.0 174.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch042_w0001"  d="M 202.0 174.75 L 202.0 176.5 L 205.0 176.5 L 205.0 181.5 L 202.0 181.5 L 202.0 197.0 A 2 2 0 0 1 200 199L 186.0 199.0 A 2 2 0 0 1 184 197L 184.0 174.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch042_w0002"  d="M 186.95 194.0 L 199.05 194.0 L 199.05 171.5 L 186.95 171.5 L 186.95 194.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="193.0" cy="196.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="193.0" cy="169.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch042</title>
 </g>
-<g id="Sketch093" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch093_w0000"  d="M 203.0 124.25 L 203.0 139.0 L 199.0 139.0 L 199.0 142.0 L 203.0 142.0 L 203.0 145.0 A 2 2 0 0 1 201 147L 187.0 147.0 A 2 2 0 0 1 185 145L 185.0 142.0 L 189.0 142.0 L 189.0 139.0 L 185.0 139.0 L 185.0 124.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch093_w0001"  d="M 185.0 123.75 L 185.0 109.0 L 189.0 109.0 L 189.0 106.0 L 185.0 106.0 L 185.0 103.0 A 2 2 0 0 1 187 101L 201.0 101.0 A 2 2 0 0 1 203 103L 203.0 106.0 L 199.0 106.0 L 199.0 109.0 L 203.0 109.0 L 203.0 123.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="194.0" cy="107.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="194.0" cy="140.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="194.0" cy="130.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch083" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch083_w0000"  d="M 106.0 124.249999034 L 106.0 131.0 A 2 2 0 0 0 108 133L 120.0 133.0 A 2 2 0 0 1 122 135L 122.0 149.0 L 125.0 149.0 L 125.0 152.0 L 132.0 152.0 L 132.0 149.0 L 135.0 149.0 L 135.0 124.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch083_w0001"  d="M 135.0 123.75 L 135.0 99.0 L 132.0 99.0 L 132.0 96.0 L 125.0 96.0 L 125.0 99.0 L 122.0 99.0 L 122.0 113.0 A 2 2 0 0 1 120 115L 108.0 115.0 A 2 2 0 0 0 106 117L 106.0 123.749999034 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="115.0" cy="124.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch083</title>
+</g>
+<g id="Sketch093" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch093_w0000"  d="M 183.0 266.25 L 183.0 281.0 L 179.0 281.0 L 179.0 284.0 L 183.0 284.0 L 183.0 287.0 A 2 2 0 0 1 181 289L 167.0 289.0 A 2 2 0 0 1 165 287L 165.0 284.0 L 169.0 284.0 L 169.0 281.0 L 165.0 281.0 L 165.0 266.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch093_w0001"  d="M 165.0 265.75 L 165.0 251.0 L 169.0 251.0 L 169.0 248.0 L 165.0 248.0 L 165.0 245.0 A 2 2 0 0 1 167 243L 181.0 243.0 A 2 2 0 0 1 183 245L 183.0 248.0 L 179.0 248.0 L 179.0 251.0 L 183.0 251.0 L 183.0 265.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="174.0" cy="249.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="174.0" cy="282.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="174.0" cy="272.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch093</title>
 </g>
-<g id="Sketch094" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch094_w0000"  d="M 206.0 27.25 L 206.0 5.0 L 202.0 5.0 L 202.0 8.0 L 198.5 8.0 L 198.5 11.0 L 199.8 11.0 L 199.8 13.5 L 198.5 13.5 L 198.5 16.0 L 195.5 16.0 L 195.5 13.5 L 194.2 13.5 L 194.2 11.0 L 195.5 11.0 L 195.5 8.0 L 192.0 8.0 L 192.0 5.0 L 188.0 5.0 L 188.0 27.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch094_w0001"  d="M 206.0 27.75 L 206.0 50.0 A 2 2 0 0 1 204 52L 190.0 52.0 A 2 2 0 0 1 188 50L 188.0 34.5 L 185.0 34.5 L 185.0 29.5 L 188.0 29.5 L 188.0 27.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch094_w0002"  d="M 190.95 47.0 L 203.05 47.0 L 203.05 24.5 L 190.95 24.5 L 190.95 47.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="197.0" cy="49.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="197.0" cy="22.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch094" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch094_w0000"  d="M 183.0 174.25 L 183.0 152.0 L 179.0 152.0 L 179.0 155.0 L 175.5 155.0 L 175.5 158.0 L 176.8 158.0 L 176.8 160.5 L 175.5 160.5 L 175.5 163.0 L 172.5 163.0 L 172.5 160.5 L 171.2 160.5 L 171.2 158.0 L 172.5 158.0 L 172.5 155.0 L 169.0 155.0 L 169.0 152.0 L 165.0 152.0 L 165.0 174.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch094_w0001"  d="M 183.0 174.75 L 183.0 197.0 A 2 2 0 0 1 181 199L 167.0 199.0 A 2 2 0 0 1 165 197L 165.0 181.5 L 162.0 181.5 L 162.0 176.5 L 165.0 176.5 L 165.0 174.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch094_w0002"  d="M 167.95 194.0 L 180.05 194.0 L 180.05 171.5 L 167.95 171.5 L 167.95 194.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="174.0" cy="196.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="174.0" cy="169.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch094</title>
 </g>
-<g id="Sketch096" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch096_w0000"  d="M 170.617357665 116.656880734 L 172.258934092 100.473394495 A 1.75 1.75 0 0 1 175.741 100.473L 177.382642335 116.656880734 A 3.4 3.4 0 1 1 170.617 116.657" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch096_w0001"  d="M 165.0 106.75 L 165.0 117.0 L 165.0 126.0 L 183.0 126.0 L 183.0 117.0 L 183.0 106.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch096_w0002"  d="M 165.0 106.25 L 165.0 96.0 L 183.0 96.0 L 183.0 106.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch096</title>
-</g>
-<g id="Sketch097" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch097_w0000"  d="M 200.0 210.75 L 200.0 191.0 L 196.0 191.0 L 196.0 194.0 L 192.5 194.0 L 192.5 197.0 L 193.8 197.0 L 193.8 199.5 L 192.5 199.5 L 192.5 202.0 L 189.5 202.0 L 189.5 199.5 L 188.2 199.5 L 188.2 197.0 L 189.5 197.0 L 189.5 194.0 L 186.0 194.0 L 186.0 191.0 L 182.0 191.0 L 182.0 210.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch097_w0001"  d="M 182.0 211.25 L 182.0 231.0 A 2 2 0 0 0 184 233L 198.0 233.0 A 2 2 0 0 0 200 231L 200.0 220.5 L 203.0 220.5 L 203.0 215.5 L 200.0 215.5 L 200.0 211.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="191.0" cy="227.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch097" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch097_w0000"  d="M 202.0 219.75 L 202.0 200.0 L 198.0 200.0 L 198.0 203.0 L 194.5 203.0 L 194.5 206.0 L 195.8 206.0 L 195.8 208.5 L 194.5 208.5 L 194.5 211.0 L 191.5 211.0 L 191.5 208.5 L 190.2 208.5 L 190.2 206.0 L 191.5 206.0 L 191.5 203.0 L 188.0 203.0 L 188.0 200.0 L 184.0 200.0 L 184.0 219.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch097_w0001"  d="M 184.0 220.25 L 184.0 240.0 A 2 2 0 0 0 186 242L 200.0 242.0 A 2 2 0 0 0 202 240L 202.0 229.5 L 205.0 229.5 L 205.0 224.5 L 202.0 224.5 L 202.0 220.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="193.0" cy="236.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch097</title>
 </g>
-<g id="Sketch098" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<g id="Sketch084" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch084_w0000"  d="M 105.0 123.749999953 L 105.0 116.999999906 A 2 2 0 0 0 103 115L 91.0 115.0 A 2 2 0 0 1 89 113L 89.0 99.0 L 86.0 99.0 L 86.0 96.0 L 79.0 96.0 L 79.0 99.0 L 76.0 99.0 L 76.0 123.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch084_w0001"  d="M 76.0 124.25 L 76.0 149.0 L 79.0 149.0 L 79.0 152.0 L 86.0 152.0 L 86.0 149.0 L 89.0 149.0 L 89.0 135.0 A 2 2 0 0 1 91 133L 103.0 133.0 A 2 2 0 0 0 105 131L 105.0 124.249999953 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="96.0" cy="124.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch084</title>
+</g>
+<g id="Sketch095" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch095_w0000"  d="M 183.0 219.75 L 183.0 200.0 L 179.0 200.0 L 179.0 203.0 L 175.5 203.0 L 175.5 206.0 L 176.8 206.0 L 176.8 208.5 L 175.5 208.5 L 175.5 211.0 L 172.5 211.0 L 172.5 208.5 L 171.2 208.5 L 171.2 206.0 L 172.5 206.0 L 172.5 203.0 L 169.0 203.0 L 169.0 200.0 L 165.0 200.0 L 165.0 219.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch095_w0001"  d="M 183.0 220.25 L 183.0 240.0 A 2 2 0 0 1 181 242L 167.0 242.0 A 2 2 0 0 1 165 240L 165.0 229.5 L 162.0 229.5 L 162.0 224.5 L 165.0 224.5 L 165.0 220.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="174.0" cy="236.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch095</title>
+</g>
+<g id="Sketch098" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch098_w0000"  d="M 72.0 269.25 L 72.0 294.0 L 39.0 294.0 L 39.0 287.0 A 2 2 0 0 1 41 285L 56.0 285.0 A 2 2 0 0 0 58 283L 58.0 269.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch098_w0001"  d="M 58.0 268.75 L 58.0 253.0 A 2 2 0 0 0 56 251L 41.0 251.0 A 2 2 0 0 1 39 249L 39.0 244.0 A 2 2 0 0 1 41 242L 70.0 242.0 A 2 2 0 0 1 72 244L 72.0 268.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <circle cx="55.5" cy="289.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
@@ -89,222 +120,191 @@
 <path id="Sketch098_w0008"  d="M 65.0 257.0 L 66.0 258.732050808 L 64.0 258.732050808 L 65.0 257.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch098</title>
 </g>
-<g id="Sketch095" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch095_w0000"  d="M 203.0 167.75 L 203.0 148.0 L 199.0 148.0 L 199.0 151.0 L 195.5 151.0 L 195.5 154.0 L 196.8 154.0 L 196.8 156.5 L 195.5 156.5 L 195.5 159.0 L 192.5 159.0 L 192.5 156.5 L 191.2 156.5 L 191.2 154.0 L 192.5 154.0 L 192.5 151.0 L 189.0 151.0 L 189.0 148.0 L 185.0 148.0 L 185.0 167.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch095_w0001"  d="M 203.0 168.25 L 203.0 188.0 A 2 2 0 0 1 201 190L 187.0 190.0 A 2 2 0 0 1 185 188L 185.0 177.5 L 182.0 177.5 L 182.0 172.5 L 185.0 172.5 L 185.0 168.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="194.0" cy="184.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch095</title>
+<g id="Sketch104" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch104_w0000"  d="M 99.0 224.25 L 99.0 234.0 A 2 2 0 0 1 97 236L 68.0 236.0 A 2 2 0 0 1 66 234L 66.0 224.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch104_w0001"  d="M 85.3 217.0 L 85.3 219.5 L 79.7 219.5 L 79.7 217.0 L 85.3 217.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch104_w0002"  d="M 66.0 223.75 L 66.0 214.0 L 99.0 214.0 L 99.0 223.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch104_w0003"  d="M 75.3431192661 233.382642335 L 91.5266055046 231.741065908 A 1.75 1.75 0 0 0 91.5266 228.259L 75.3431192661 226.617357665 A 3.4 3.4 0 1 0 75.3431 233.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch104</title>
 </g>
-<g id="Sketch100" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch100_w0000"  d="M 181.0 198.25 L 181.0 208.0 A 2 2 0 0 1 179 210L 150.0 210.0 A 2 2 0 0 1 148 208L 148.0 198.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch100_w0001"  d="M 148.0 197.75 L 148.0 188.0 L 152.0 188.0 L 152.0 183.0 L 157.0 183.0 L 157.0 188.0 L 163.0 188.0 L 163.0 191.0 L 161.7 191.0 L 161.7 193.5 L 163.0 193.5 L 163.0 196.0 L 166.0 196.0 L 166.0 193.5 L 167.3 193.5 L 167.3 191.0 L 166.0 191.0 L 166.0 188.0 L 172.0 188.0 L 172.0 183.0 L 177.0 183.0 L 177.0 188.0 L 181.0 188.0 L 181.0 197.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="172.0" cy="204.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch099" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch099_w0000"  d="M 203.0 111.25 L 203.0 121.0 A 2 2 0 0 1 201 123L 172.0 123.0 A 2 2 0 0 1 170 121L 170.0 111.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch099_w0001"  d="M 170.0 110.75 L 170.0 101.0 L 174.0 101.0 L 174.0 96.0 L 179.0 96.0 L 179.0 101.0 L 185.0 101.0 L 185.0 104.0 L 183.7 104.0 L 183.7 106.5 L 185.0 106.5 L 185.0 109.0 L 188.0 109.0 L 188.0 106.5 L 189.3 106.5 L 189.3 104.0 L 188.0 104.0 L 188.0 101.0 L 194.0 101.0 L 194.0 96.0 L 199.0 96.0 L 199.0 101.0 L 203.0 101.0 L 203.0 110.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="179.0" cy="117.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch099</title>
+</g>
+<g id="Sketch101" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch101_w0000"  d="M 169.0 139.25 L 169.0 149.0 A 2 2 0 0 1 167 151L 138.0 151.0 A 2 2 0 0 1 136 149L 136.0 139.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch101_w0001"  d="M 136.0 138.75 L 136.0 129.0 L 140.0 129.0 L 140.0 124.0 L 145.0 124.0 L 145.0 129.0 L 151.0 129.0 L 151.0 132.0 L 149.7 132.0 L 149.7 134.5 L 151.0 134.5 L 151.0 137.0 L 154.0 137.0 L 154.0 134.5 L 155.3 134.5 L 155.3 132.0 L 154.0 132.0 L 154.0 129.0 L 160.0 129.0 L 160.0 124.0 L 165.0 124.0 L 165.0 129.0 L 169.0 129.0 L 169.0 138.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="145.0" cy="145.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch101</title>
+</g>
+<g id="Sketch100" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch100_w0000"  d="M 203.0 139.25 L 203.0 149.0 A 2 2 0 0 1 201 151L 172.0 151.0 A 2 2 0 0 1 170 149L 170.0 139.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch100_w0001"  d="M 170.0 138.75 L 170.0 129.0 L 174.0 129.0 L 174.0 124.0 L 179.0 124.0 L 179.0 129.0 L 185.0 129.0 L 185.0 132.0 L 183.7 132.0 L 183.7 134.5 L 185.0 134.5 L 185.0 137.0 L 188.0 137.0 L 188.0 134.5 L 189.3 134.5 L 189.3 132.0 L 188.0 132.0 L 188.0 129.0 L 194.0 129.0 L 194.0 124.0 L 199.0 124.0 L 199.0 129.0 L 203.0 129.0 L 203.0 138.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="194.0" cy="145.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch100</title>
 </g>
-<g id="Sketch105" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch105_w0000"  d="M 196.0 250.25 L 196.0 260.0 A 2 2 0 0 1 194 262L 165.0 262.0 A 2 2 0 0 1 163 260L 163.0 250.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch105_w0001"  d="M 182.3 243.0 L 182.3 245.5 L 176.7 245.5 L 176.7 243.0 L 182.3 243.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch105_w0002"  d="M 163.0 249.75 L 163.0 240.0 L 196.0 240.0 L 196.0 249.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch105_w0003"  d="M 186.656880734 259.382642335 L 170.473394495 257.741065908 A 1.75 1.75 0 0 1 170.473 254.259L 186.656880734 252.617357665 A 3.4 3.4 0 1 1 186.657 259.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch105</title>
-</g>
-<g id="Sketch102" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch102_w0000"  d="M 117.0 267.25 L 117.0 292.0 A 2 2 0 0 1 115 294L 75.0 294.0 A 2 2 0 0 1 73 292L 73.0 267.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch102_w0001"  d="M 73.0 266.75 L 73.0 242.0 A 2 2 0 0 1 75 240L 115.0 240.0 A 2 2 0 0 1 117 242L 117.0 266.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Sketch102" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch102_w0000"  d="M 117.0 265.75 L 117.0 292.0 A 2 2 0 0 1 115 294L 75.0 294.0 A 2 2 0 0 1 73 292L 73.0 265.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch102_w0001"  d="M 73.0 265.25 L 73.0 239.0 A 2 2 0 0 1 75 237L 115.0 237.0 A 2 2 0 0 1 117 239L 117.0 265.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <circle cx="100.5" cy="288.5" r="3.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <circle cx="100.5" cy="245.5" r="3.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <path id="Sketch102_w0004"  d="M 108.0 290.0 L 113.0 290.0 L 113.0 287.0 L 108.0 287.0 L 108.0 290.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch102_w0005"  d="M 88.0 290.0 L 93.0 290.0 L 93.0 287.0 L 88.0 287.0 L 88.0 290.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch102_w0006"  d="M 88.0 247.0 L 93.0 247.0 L 93.0 244.0 L 88.0 244.0 L 88.0 247.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch102_w0007"  d="M 108.0 247.0 L 113.0 247.0 L 113.0 244.0 L 108.0 244.0 L 108.0 247.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch102_w0008"  d="M 110.0 255.0 L 111.0 256.732050808 L 109.0 256.732050808 L 110.0 255.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch102_w0008"  d="M 110.0 256.0 L 111.0 257.732050808 L 109.0 257.732050808 L 110.0 256.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch102</title>
 </g>
-<g id="Sketch103" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch103_w0000"  d="M 162.0 267.25 L 162.0 292.0 A 2 2 0 0 1 160 294L 120.0 294.0 A 2 2 0 0 1 118 292L 118.0 267.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch103_w0001"  d="M 118.0 266.75 L 118.0 242.0 A 2 2 0 0 1 120 240L 160.0 240.0 A 2 2 0 0 1 162 242L 162.0 266.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<g id="Sketch103" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch103_w0000"  d="M 162.0 265.75 L 162.0 292.0 A 2 2 0 0 1 160 294L 120.0 294.0 A 2 2 0 0 1 118 292L 118.0 265.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch103_w0001"  d="M 118.0 265.25 L 118.0 239.0 A 2 2 0 0 1 120 237L 160.0 237.0 A 2 2 0 0 1 162 239L 162.0 265.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <circle cx="134.5" cy="288.5" r="3.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <circle cx="134.5" cy="245.5" r="3.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <path id="Sketch103_w0004"  d="M 142.0 290.0 L 147.0 290.0 L 147.0 287.0 L 142.0 287.0 L 142.0 290.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch103_w0005"  d="M 122.0 290.0 L 127.0 290.0 L 127.0 287.0 L 122.0 287.0 L 122.0 290.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch103_w0006"  d="M 122.0 247.0 L 127.0 247.0 L 127.0 244.0 L 122.0 244.0 L 122.0 247.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch103_w0007"  d="M 142.0 247.0 L 147.0 247.0 L 147.0 244.0 L 142.0 244.0 L 142.0 247.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch103_w0008"  d="M 125.0 255.0 L 126.0 256.732050808 L 124.0 256.732050808 L 125.0 255.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch103_w0008"  d="M 125.0 256.0 L 126.0 257.732050808 L 124.0 257.732050808 L 125.0 256.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch103</title>
 </g>
-<g id="Sketch099" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch099_w0000"  d="M 181.0 142.25 L 181.0 152.0 A 2 2 0 0 1 179 154L 150.0 154.0 A 2 2 0 0 1 148 152L 148.0 142.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch099_w0001"  d="M 148.0 141.75 L 148.0 132.0 L 152.0 132.0 L 152.0 127.0 L 157.0 127.0 L 157.0 132.0 L 163.0 132.0 L 163.0 135.0 L 161.7 135.0 L 161.7 137.5 L 163.0 137.5 L 163.0 140.0 L 166.0 140.0 L 166.0 137.5 L 167.3 137.5 L 167.3 135.0 L 166.0 135.0 L 166.0 132.0 L 172.0 132.0 L 172.0 127.0 L 177.0 127.0 L 177.0 132.0 L 181.0 132.0 L 181.0 141.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="157.0" cy="148.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch099</title>
-</g>
-<g id="Sketch101" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch101_w0000"  d="M 181.0 226.25 L 181.0 236.0 A 2 2 0 0 1 179 238L 150.0 238.0 A 2 2 0 0 1 148 236L 148.0 226.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch101_w0001"  d="M 148.0 225.75 L 148.0 216.0 L 152.0 216.0 L 152.0 211.0 L 157.0 211.0 L 157.0 216.0 L 163.0 216.0 L 163.0 219.0 L 161.7 219.0 L 161.7 221.5 L 163.0 221.5 L 163.0 224.0 L 166.0 224.0 L 166.0 221.5 L 167.3 221.5 L 167.3 219.0 L 166.0 219.0 L 166.0 216.0 L 172.0 216.0 L 172.0 211.0 L 177.0 211.0 L 177.0 216.0 L 181.0 216.0 L 181.0 225.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="157.0" cy="232.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch101</title>
-</g>
-<g id="Sketch104" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch104_w0000"  d="M 196.0 273.25 L 196.0 283.0 A 2 2 0 0 1 194 285L 165.0 285.0 A 2 2 0 0 1 163 283L 163.0 273.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch104_w0001"  d="M 182.3 266.0 L 182.3 268.5 L 176.7 268.5 L 176.7 266.0 L 182.3 266.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch104_w0002"  d="M 163.0 272.75 L 163.0 263.0 L 196.0 263.0 L 196.0 272.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch104_w0003"  d="M 172.343119266 282.382642335 L 188.526605505 280.741065908 A 1.75 1.75 0 0 0 188.527 277.259L 172.343119266 275.617357665 A 3.4 3.4 0 1 0 172.343 282.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch104</title>
-</g>
-<g id="Sketch108" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<g id="Sketch108" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch108_w0000"  d="M 38.75 267.0 L 56.5 267.0 L 56.5 262.0 L 53.5 262.0 L 53.5 257.0 L 56.5 257.0 L 56.5 252.0 L 38.75 252.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch108_w0001"  d="M 38.25 267.0 L 20.5 267.0 L 20.5 262.0 L 23.5 262.0 L 23.5 257.0 L 20.5 257.0 L 20.5 252.0 L 38.25 252.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch108</title>
 </g>
-<g id="Sketch003" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch003_w0000"  d="M 39.75 152.0 L 30.0 152.0 L 30.0 149.0 L 5.0 149.0 L 5.0 99.0 L 30.0 99.0 L 30.0 96.0 L 39.75 96.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch003_w0001"  d="M 40.25 96.0 L 50.0 96.0 L 50.0 99.0 L 75.0 99.0 L 75.0 149.0 L 50.0 149.0 L 50.0 152.0 L 40.25 152.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="27.25" cy="129.0" r="7.9" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="52.75" cy="129.0" r="7.9" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch003_w0004"  d="M 26.5 115.042997637 A 0.5 0.5 0 0 1 26.8116 114.58A 35 35 0 0 1 53.1884 114.58A 0.5 0.5 0 0 1 53.5 115.043A 0.5 0.5 0 1 0 54.5 115.043A 1.5 1.5 0 0 0 53.5652 113.654A 36 36 0 0 0 26.4348 113.654A 1.5 1.5 0 0 0 25.5 115.043A 0.5 0.5 0 0 0 26.5 115.043" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch003</title>
-</g>
-<g id="Sketch080" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch080_w0000"  d="M 126.8 157.25 L 126.8 170.0 A 2 2 0 0 0 130.8 170A 2 2 0 0 1 132.8 168L 138.8 168.0 A 2 2 0 0 0 140.8 166L 140.8 157.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch080_w0001"  d="M 140.8 156.75 L 140.8 148.0 A 2 2 0 0 0 138.8 146L 138.8 143.0 L 129.0 143.0 L 129.0 146.0 A 2 2 0 0 0 126.8 147.99L 126.8 156.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch080_w0002"  d="M 128.9 165.0 L 138.9 165.0 L 138.9 162.0 L 128.9 162.0 L 128.9 165.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="129.9" cy="158.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="133.9" cy="158.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="137.9" cy="158.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="129.9" cy="154.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="133.9" cy="154.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="137.9" cy="154.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="129.9" cy="150.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="133.9" cy="150.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="137.9" cy="150.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch080" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch080_w0000"  d="M 149.824414 198.176086 L 149.824414 210.926086 A 2 2 0 0 0 153.824 210.926A 2 2 0 0 1 155.824 208.926L 161.824414 208.926086 A 2 2 0 0 0 163.824 206.926L 163.824414 198.176086 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch080_w0001"  d="M 163.824414 197.676086 L 163.824414 188.926086 A 2 2 0 0 0 161.824 186.926L 161.824414 183.926086 L 152.024414 183.926086 L 152.024414 186.926086 A 2 2 0 0 0 149.824 188.916L 149.824414 197.676086 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch080_w0002"  d="M 151.924414 205.926086 L 161.924414 205.926086 L 161.924414 202.926086 L 151.924414 202.926086 L 151.924414 205.926086 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="152.924414" cy="198.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="156.924414" cy="198.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="160.924414" cy="198.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="152.924414" cy="194.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="156.924414" cy="194.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="160.924414" cy="194.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="152.924414" cy="190.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="156.924414" cy="190.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="160.924414" cy="190.926086" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch080</title>
 </g>
-<g id="Sketch107" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<g id="Sketch107" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch107_w0000"  d="M 38.75 284.0 L 56.5 284.0 L 56.5 279.0 L 53.5 279.0 L 53.5 274.0 L 56.5 274.0 L 56.5 269.0 L 38.75 269.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch107_w0001"  d="M 38.25 284.0 L 20.5 284.0 L 20.5 279.0 L 23.5 279.0 L 23.5 274.0 L 20.5 274.0 L 20.5 269.0 L 38.25 269.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch107</title>
 </g>
-<g id="Sketch070" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch070_w0000"  d="M 93.0 175.0 L 86.0 175.0 L 86.0 172.0 L 76.0 172.0 L 76.0 175.0 L 66.0 175.0 L 66.0 200.0 A 2 2 0 0 0 68 202L 93.0 202.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch070_w0001"  d="M 93.5 202.0 L 103.5 202.0 L 103.5 205.0 L 116.0 205.0 L 116.0 202.0 L 126.0 202.0 L 126.0 175.0 L 116.0 175.0 L 116.0 172.0 L 106.0 172.0 L 106.0 175.0 L 93.5 175.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch070_w0002"  d="M 111.0 188.0 L 112.0 189.732050808 L 110.0 189.732050808 L 111.0 188.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch070</title>
+<g id="Sketch105" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch105_w0000"  d="M 133.0 224.25 L 133.0 234.0 A 2 2 0 0 1 131 236L 102.0 236.0 A 2 2 0 0 1 100 234L 100.0 224.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch105_w0001"  d="M 119.3 217.0 L 119.3 219.5 L 113.7 219.5 L 113.7 217.0 L 119.3 217.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch105_w0002"  d="M 100.0 223.75 L 100.0 214.0 L 133.0 214.0 L 133.0 223.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch105_w0003"  d="M 123.656880734 233.382642335 L 107.473394495 231.741065908 A 1.75 1.75 0 0 1 107.473 228.259L 123.656880734 226.617357665 A 3.4 3.4 0 1 1 123.657 233.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch105</title>
 </g>
-<g id="Sketch113" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch113_w0000"  d="M 90.0 167.0 L 90.0 170.0 A 1 1 0 0 0 91 171L 121.1 171.0 A 1 1 0 0 0 122.1 170L 122.1 167.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch113_w0001"  d="M 90.0 166.5 L 90.0 163.5 A 1 1 0 0 1 91 162.5L 103.55 162.5 A 2.5 2.5 0 1 0 108.55 162.5L 121.1 162.5 A 1 1 0 0 1 122.1 163.5L 122.1 166.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch113</title>
+<g id="Sketch003" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch003_w0000"  d="M 39.75 152.0 L 30.0 152.0 L 30.0 149.0 L 5.0 149.0 L 5.0 99.0 L 30.0 99.0 L 30.0 96.0 L 39.75 96.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch003_w0001"  d="M 40.25 96.0 L 50.0 96.0 L 50.0 99.0 L 75.0 99.0 L 75.0 149.0 L 50.0 149.0 L 50.0 152.0 L 40.25 152.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="27.25" cy="129.0" r="7.9" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="52.75" cy="129.0" r="7.9" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch003_w0004"  d="M 26.5 115.042997637 A 0.5 0.5 0 0 1 26.8116 114.58A 35 35 0 0 1 53.1884 114.58A 0.5 0.5 0 0 1 53.5 115.043A 0.5 0.5 0 1 0 54.5 115.043A 1.5 1.5 0 0 0 53.5652 113.654A 36 36 0 0 0 26.4348 113.654A 1.5 1.5 0 0 0 25.5 115.043A 0.5 0.5 0 1 0 26.5 115.043" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch003</title>
 </g>
-<g id="Sketch110" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch110_w0000"  d="M 34.75 225.0 L 6.0 225.0 A 1 1 0 0 1 5 224L 5.0 210.0 L 15.0 210.0 L 15.0 213.0 L 25.0 213.0 L 25.0 210.0 L 34.75 210.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch110_w0001"  d="M 35.25 225.0 L 56.0 225.0 A 1 1 0 0 0 57 224L 57.0 221.0 A 1 1 0 0 0 56 220L 51.0 220.0 A 1 1 0 0 1 50 219L 50.0 218.0 A 1 1 0 0 1 51 217L 59.0 217.0 A 1 1 0 0 1 60 218L 60.0 224.0 A 1 1 0 0 0 61 225L 64.0 225.0 A 1 1 0 0 0 65 224L 65.0 210.0 L 55.0 210.0 L 55.0 213.0 L 45.0 213.0 L 45.0 210.0 L 35.25 210.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="14.0" cy="219.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch110</title>
+<g id="Sketch115" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch115_w0000"  d="M 194.65 72.0 L 190.0 72.0 L 190.0 76.0 A 1 1 0 0 0 191 77L 191.4 77.0 A 1 1 0 0 1 192.4 78L 192.4 82.5590451988 A 3.8 3.8 0 1 0 188.722 87.3143L 190.854915028 87.3143277803 L 188.977202452 88.3259491075 A 3.8 3.8 0 1 0 194.518 92.3517L 194.9 90.2532540418 L 195.281863959 92.3516730053 A 3.8 3.8 0 1 0 200.823 88.3259L 198.945084972 87.3143277803 L 201.077966176 87.3143277803 A 3.8 3.8 0 1 0 197.4 82.559L 197.4 78.0 A 1 1 0 0 1 198.4 77L 198.8 77.0 A 1 1 0 0 0 199.8 76L 199.8 72.0 L 195.15 72.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="194.9" cy="86.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch115</title>
 </g>
-<g id="Sketch075" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch075_w0000"  d="M 98.5 236.0 L 88.5 236.0 L 88.5 239.0 L 76.0 239.0 L 76.0 236.0 L 66.0 236.0 L 66.0 209.0 L 76.0 209.0 L 76.0 206.0 L 86.0 206.0 L 86.0 209.0 L 98.5 209.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch075_w0001"  d="M 99.0 236.0 L 124.0 236.0 A 2 2 0 0 0 126 234L 126.0 209.0 L 116.0 209.0 L 116.0 206.0 L 106.0 206.0 L 106.0 209.0 L 99.0 209.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch075_w0002"  d="M 81.0 222.0 L 82.0 223.732050808 L 80.0 223.732050808 L 81.0 222.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch075</title>
-</g>
-<g id="Sketch109" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<g id="Sketch109" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch109_w0000"  d="M 34.75 241.0 L 14.0 241.0 A 1 1 0 0 1 13 240L 13.0 237.0 A 1 1 0 0 1 14 236L 19.0 236.0 A 1 1 0 0 0 20 235L 20.0 234.0 A 1 1 0 0 0 19 233L 11.0 233.0 A 1 1 0 0 0 10 234L 10.0 240.0 A 1 1 0 0 1 9 241L 6.0 241.0 A 1 1 0 0 1 5 240L 5.0 226.0 L 15.0 226.0 L 15.0 229.0 L 25.0 229.0 L 25.0 226.0 L 34.75 226.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch109_w0001"  d="M 35.25 241.0 L 64.0 241.0 A 1 1 0 0 0 65 240L 65.0 226.0 L 55.0 226.0 L 55.0 229.0 L 45.0 229.0 L 45.0 226.0 L 35.25 226.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <circle cx="56.0" cy="235.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch109</title>
 </g>
-<g id="Sketch111" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch111_w0000"  d="M 127.0 223.0 L 127.0 237.0 A 2 2 0 0 0 129 239L 147.1 239.0 L 147.1 229.0 L 144.1 229.0 L 144.1 234.0 L 132.0 234.0 L 132.0 223.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch111_w0001"  d="M 132.0 222.5 L 132.0 211.5 L 144.1 211.5 L 144.1 216.5 L 147.1 216.5 L 147.1 206.5 L 129.0 206.5 A 2 2 0 0 0 127 208.5L 127.0 222.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="138.05" cy="236.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="138.05" cy="209.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch111" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch111_w0000"  d="M 185.0 21.5 L 185.0 35.5 A 2 2 0 0 0 187 37.5L 205.1 37.5 L 205.1 27.5 L 202.1 27.5 L 202.1 32.5 L 190.0 32.5 L 190.0 21.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch111_w0001"  d="M 190.0 21.0 L 190.0 10.0 L 202.1 10.0 L 202.1 15.0 L 205.1 15.0 L 205.1 5.0 L 187.0 5.0 A 2 2 0 0 0 185 7L 185.0 21.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="196.05" cy="35.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="196.05" cy="7.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch111</title>
 </g>
-<g id="Sketch112" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch112_w0000"  d="M 127.0 189.5 L 127.0 203.5 A 2 2 0 0 0 129 205.5L 147.1 205.5 L 147.1 195.5 L 144.1 195.5 L 144.1 200.5 L 132.0 200.5 L 132.0 189.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch112_w0001"  d="M 132.0 189.0 L 132.0 178.0 L 144.1 178.0 L 144.1 183.0 L 147.1 183.0 L 147.1 173.0 L 129.0 173.0 A 2 2 0 0 0 127 175L 127.0 189.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="138.05" cy="203.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="138.05" cy="175.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch118" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch118_w0000"  d="M 68.0 180.5 L 68.0 190.5 L 65.0 190.5 L 65.0 203.0 L 68.0 203.0 L 68.0 213.0 L 95.0 213.0 L 95.0 203.0 L 98.0 203.0 L 98.0 193.0 L 95.0 193.0 L 95.0 180.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch118_w0001"  d="M 95.0 180.0 L 95.0 173.0 L 98.0 173.0 L 98.0 163.0 L 95.0 163.0 L 95.0 153.0 L 70.0 153.0 A 2 2 0 0 0 68 155L 68.0 180.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch118_w0002"  d="M 82.5 198.0 L 80.7679491924 199.0 L 80.7679491924 197.0 L 82.5 198.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch118</title>
+</g>
+<g id="Sketch112" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch112_w0000"  d="M 185.0 55.0 L 185.0 69.0 A 2 2 0 0 0 187 71L 205.1 71.0 L 205.1 61.0 L 202.1 61.0 L 202.1 66.0 L 190.0 66.0 L 190.0 55.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch112_w0001"  d="M 190.0 54.5 L 190.0 43.5 L 202.1 43.5 L 202.1 48.5 L 205.1 48.5 L 205.1 38.5 L 187.0 38.5 A 2 2 0 0 0 185 40.5L 185.0 54.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="196.05" cy="68.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="196.05" cy="41.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch112</title>
 </g>
-<g id="Sketch114" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch114_w0000"  d="M 90.0 157.5 L 90.0 160.5 A 1 1 0 0 0 91 161.5L 121.1 161.5 A 1 1 0 0 0 122.1 160.5L 122.1 157.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch114_w0001"  d="M 90.0 157.0 L 90.0 154.0 A 1 1 0 0 1 91 153L 103.55 153.0 A 2.5 2.5 0 1 0 108.55 153L 121.1 153.0 A 1 1 0 0 1 122.1 154L 122.1 157.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch114</title>
+<g id="Sketch110" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch110_w0000"  d="M 34.75 225.0 L 6.0 225.0 A 1 1 0 0 1 5 224L 5.0 210.0 L 15.0 210.0 L 15.0 213.0 L 25.0 213.0 L 25.0 210.0 L 34.75 210.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch110_w0001"  d="M 35.25 225.0 L 56.0 225.0 A 1 1 0 0 0 57 224L 57.0 221.0 A 1 1 0 0 0 56 220L 51.0 220.0 A 1 1 0 0 1 50 219L 50.0 218.0 A 1 1 0 0 1 51 217L 59.0 217.0 A 1 1 0 0 1 60 218L 60.0 224.0 A 1 1 0 0 0 61 225L 64.0 225.0 A 1 1 0 0 0 65 224L 65.0 210.0 L 55.0 210.0 L 55.0 213.0 L 45.0 213.0 L 45.0 210.0 L 35.25 210.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="14.0" cy="219.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Sketch110</title>
 </g>
-<g id="Sketch115" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch115_w0000"  d="M 93.15 92.0 L 88.5 92.0 L 88.5 96.0 A 1 1 0 0 0 89.5 97L 89.9 97.0 A 1 1 0 0 1 90.9 98L 90.9 100.559045199 L 87.9834714893 98.4400632017 A 3.8 3.8 0 1 0 85.7499 105.314L 89.3549150281 105.31432778 L 86.4383865174 107.433309777 A 3.8 3.8 0 1 0 92.286 111.682L 93.4 108.253254042 L 94.5140147619 111.681838935 A 3.8 3.8 0 1 0 100.362 107.433L 97.4450849719 105.31432778 L 101.050112469 105.31432778 A 3.8 3.8 0 1 0 98.8165 98.4401L 95.9 100.559045199 L 95.9 98.0 A 1 1 0 0 1 96.9 97L 97.3 97.0 A 1 1 0 0 0 98.3 96L 98.3 92.0 L 93.65 92.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="93.4" cy="104.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch115</title>
+<g id="Sketch116" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch116_w0000"  d="M 120.5 104.75 L 120.5 96.0 L 90.5 96.0 L 90.5 104.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch116_w0001"  d="M 90.5 105.25 L 90.5 114.0 L 120.5 114.0 L 120.5 105.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch116_w0002"  d="M 99.8431192661 108.382642335 L 116.026605505 106.741065908 A 1.75 1.75 0 0 0 116.027 103.259L 99.8431192661 101.617357665 A 3.4 3.4 0 1 0 99.8431 108.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch116</title>
 </g>
-<g id="Sketch052" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch052_w0000"  d="M 94.0 50.25 L 94.0 80.0 A 15 15 0 0 0 109 95L 169.0 95.0 A 15 15 0 0 0 184 80L 184.0 50.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0001"  d="M 94.0 49.75 L 94.0 20.0 A 15 15 0 0 1 109 5L 169.0 5.0 A 15 15 0 0 1 184 20L 184.0 49.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0002"  d="M 129.0 11.0 L 149.0 11.0 L 149.0 8.0 L 129.0 8.0 L 129.0 11.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="104.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="174.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="104.0" cy="15.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="174.0" cy="15.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch052_w0007"  d="M 97.0 29.0 L 104.0 29.0 L 104.0 26.0 L 97.0 26.0 L 97.0 29.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0008"  d="M 174.0 29.0 L 181.0 29.0 L 181.0 26.0 L 174.0 26.0 L 174.0 29.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0009"  d="M 129.0 55.0 L 129.0 45.0 A 2.5 2.5 0 1 1 134 45L 134.0 55.0 A 2.5 2.5 0 1 1 129 55" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0010"  d="M 144.0 55.0 L 144.0 45.0 A 2.5 2.5 0 1 1 149 45L 149.0 55.0 A 2.5 2.5 0 1 1 144 55" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0011"  d="M 104.0 57.5 L 116.1 57.5 L 116.1 35.0 L 104.0 35.0 L 104.0 57.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0012"  d="M 161.9 57.5 L 174.0 57.5 L 174.0 35.0 L 161.9 35.0 L 161.9 57.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="110.05" cy="60.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="110.05" cy="32.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="167.95" cy="32.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="167.95" cy="60.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch052_w0017"  d="M 138.0 36.7320508076 L 139.0 35.0 L 140.0 36.7320508076 L 138.0 36.7320508076 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0018"  d="M 97.0 70.0 L 104.0 70.0 L 104.0 67.0 L 97.0 67.0 L 97.0 70.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch052_w0019"  d="M 174.0 70.0 L 181.0 70.0 L 181.0 67.0 L 174.0 67.0 L 174.0 70.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch052</title>
+<g id="Sketch117" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch117_w0000"  d="M 120.5 142.75 L 120.5 134.0 L 90.5 134.0 L 90.5 142.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch117_w0001"  d="M 90.5 143.25 L 90.5 152.0 L 120.5 152.0 L 120.5 143.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch117_w0002"  d="M 99.8431192661 146.382642335 L 116.026605505 144.741065908 A 1.75 1.75 0 0 0 116.027 141.259L 99.8431192661 139.617357665 A 3.4 3.4 0 1 0 99.8431 146.383" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch117</title>
 </g>
-<g id="Sketch051" transform="translate(-0.970000,296.030000) scale(1,-1)">
+<g id="Sketch119" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch119_w0000"  d="M 102.0 180.5 L 102.0 193.0 L 99.0 193.0 L 99.0 203.0 L 102.0 203.0 L 102.0 213.0 L 129.0 213.0 L 129.0 203.0 L 132.0 203.0 L 132.0 190.5 L 129.0 190.5 L 129.0 180.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch119_w0001"  d="M 102.0 180.0 L 102.0 173.0 L 99.0 173.0 L 99.0 163.0 L 102.0 163.0 L 102.0 153.0 L 127.0 153.0 A 2 2 0 0 1 129 155L 129.0 180.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch119_w0002"  d="M 114.5 198.0 L 116.232050808 197.0 L 116.232050808 199.0 L 114.5 198.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch119</title>
+</g>
+<g id="Sketch120" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch120_w0000"  d="M 144.990122487 198.0 L 142.0 198.0 L 142.0 195.0 L 139.0 195.0 L 139.0 198.0 L 133.0 198.0 L 142.586272797 233.776457135 A 3 3 0 0 0 145.484 236L 147.484050276 236.0 A 1 1 0 0 0 148.48 234.913L 146.234159831 209.23997359 A 1 1 0 0 0 145.238 208.327L 144.737965133 208.327129333 A 1 1 0 0 1 143.852 206.864L 148.480244974 198.0 L 145.490122487 198.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch120</title>
+</g>
+<g id="Sketch121" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch121_w0000"  d="M 144.990122487 156.0 L 142.0 156.0 L 142.0 153.0 L 139.0 153.0 L 139.0 156.0 L 133.0 156.0 L 142.586272797 191.776457135 A 3 3 0 0 0 145.484 194L 147.484050276 194.0 A 1 1 0 0 0 148.48 192.913L 146.234159831 167.23997359 A 1 1 0 0 0 145.238 166.327L 144.737965133 166.327129333 A 1 1 0 0 1 143.852 164.864L 148.480244974 156.0 L 145.490122487 156.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Sketch121</title>
+</g>
+<g id="Sketch051" transform="translate(-0.979000,296.021000) scale(1,-1)">
 <path id="Sketch051_w0000"  d="M 3.0 50.25 L 3.0 80.0 A 15 15 0 0 0 18 95L 78.0 95.0 A 15 15 0 0 0 93 80L 93.0 50.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch051_w0001"  d="M 3.0 49.75 L 3.0 20.0 A 15 15 0 0 1 18 5L 78.0 5.00000000001 A 15 15 0 0 1 93 20L 93.0 49.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch051_w0001"  d="M 3.0 49.75 L 3.0 20.0 A 15 15 0 0 1 18 5L 78.0 5.0 A 15 15 0 0 1 93 20L 93.0 49.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch051_w0002"  d="M 38.0 11.0 L 58.0 11.0 L 58.0 8.0 L 38.0 8.0 L 38.0 11.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <circle cx="38.5" cy="21.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <circle cx="23.6" cy="72.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <circle cx="72.1" cy="73.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <circle cx="13.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <circle cx="83.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="13.0" cy="15.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="83.0" cy="15.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch051_w0010"  d="M 6.0 29.0 L 13.0 29.0 L 13.0 26.0 L 6.0 26.0 L 6.0 29.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch051_w0011"  d="M 83.0 29.0 L 90.0 29.0 L 90.0 26.0 L 83.0 26.0 L 83.0 29.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="16.0" cy="20.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="80.0" cy="20.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch051_w0010"  d="M 6.0 34.0 L 13.0 34.0 L 13.0 31.0 L 6.0 31.0 L 6.0 34.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch051_w0011"  d="M 83.0 34.0 L 90.0 34.0 L 90.0 31.0 L 83.0 31.0 L 83.0 34.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch051_w0012"  d="M 45.5 89.0 L 50.5 89.0 A 2 2 0 1 0 50.5 85L 45.5 85.0 A 2 2 0 1 0 45.5 89" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <path id="Sketch051_w0013"  d="M 47.0 36.7320508076 L 49.0 36.7320508076 L 48.0 35.0 L 47.0 36.7320508076 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch051_w0014"  d="M 83.0 70.0 L 90.0 70.0 L 90.0 67.0 L 83.0 67.0 L 83.0 70.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch051_w0015"  d="M 6.0 70.0 L 13.0 70.0 L 13.0 67.0 L 6.0 67.0 L 6.0 70.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch051_w0014"  d="M 83.0 75.0 L 90.0 75.0 L 90.0 72.0 L 83.0 72.0 L 83.0 75.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch051_w0015"  d="M 6.0 75.0 L 13.0 75.0 L 13.0 72.0 L 6.0 72.0 L 6.0 75.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch051_w0016"  d="M 83.0 64.0 L 85.9 64.0 L 85.9 61.1 L 83.0 61.1 L 83.0 64.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch051_w0017"  d="M 10.1 64.0 L 13.0 64.0 L 13.0 61.1 L 10.1 61.1 L 10.1 64.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
 <title>Sketch051</title>
 </g>
-<g id="Sketch042" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch042_w0000"  d="M 203.0 75.25 L 203.0 53.0 L 199.0 53.0 L 199.0 56.0 L 195.5 56.0 L 195.5 59.0 L 196.8 59.0 L 196.8 61.5 L 195.5 61.5 L 195.5 64.0 L 192.5 64.0 L 192.5 61.5 L 191.2 61.5 L 191.2 59.0 L 192.5 59.0 L 192.5 56.0 L 189.0 56.0 L 189.0 53.0 L 185.0 53.0 L 185.0 75.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch042_w0001"  d="M 203.0 75.75 L 203.0 77.5 L 206.0 77.5 L 206.0 82.5 L 203.0 82.5 L 203.0 98.0 A 2 2 0 0 1 201 100L 187.0 100.0 A 2 2 0 0 1 185 98L 185.0 75.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch042_w0002"  d="M 187.95 95.0 L 200.05 95.0 L 200.05 72.5 L 187.95 72.5 L 187.95 95.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="194.0" cy="97.5" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="194.0" cy="70.0" r="1.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<title>Sketch042</title>
-</g>
-<g id="Sketch039" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch039_w0000"  d="M 145.0 119.25 L 145.0 134.0 L 141.0 134.0 L 141.0 137.0 L 145.0 137.0 L 145.0 140.0 A 2 2 0 0 1 143 142L 129.0 142.0 A 2 2 0 0 1 127 140L 127.0 137.0 L 131.0 137.0 L 131.0 134.0 L 127.0 134.0 L 127.0 119.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch039_w0001"  d="M 127.0 118.75 L 127.0 104.0 L 131.0 104.0 L 131.0 101.0 L 127.0 101.0 L 127.0 98.0 A 2 2 0 0 1 129 96L 143.0 96.0 A 2 2 0 0 1 145 98L 145.0 101.0 L 141.0 101.0 L 141.0 104.0 L 145.0 104.0 L 145.0 118.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="136.0" cy="102.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="136.0" cy="135.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="136.0" cy="125.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch039" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch039_w0000"  d="M 202.0 266.25 L 202.0 281.0 L 198.0 281.0 L 198.0 284.0 L 202.0 284.0 L 202.0 287.0 A 2 2 0 0 1 200 289L 186.0 289.0 A 2 2 0 0 1 184 287L 184.0 284.0 L 188.0 284.0 L 188.0 281.0 L 184.0 281.0 L 184.0 266.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch039_w0001"  d="M 184.0 265.75 L 184.0 251.0 L 188.0 251.0 L 188.0 248.0 L 184.0 248.0 L 184.0 245.0 A 2 2 0 0 1 186 243L 200.0 243.0 A 2 2 0 0 1 202 245L 202.0 248.0 L 198.0 248.0 L 198.0 251.0 L 202.0 251.0 L 202.0 265.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="193.0" cy="249.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="193.0" cy="282.5" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="193.0" cy="272.0" r="3.4" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch039</title>
 </g>
-<g id="Sketch046" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch046_w0000"  d="M 181.0 170.25 L 181.0 180.0 A 2 2 0 0 1 179 182L 150.0 182.0 A 2 2 0 0 1 148 180L 148.0 170.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch046_w0001"  d="M 148.0 169.75 L 148.0 160.0 L 152.0 160.0 L 152.0 155.0 L 157.0 155.0 L 157.0 160.0 L 163.0 160.0 L 163.0 163.0 L 161.7 163.0 L 161.7 165.5 L 163.0 165.5 L 163.0 168.0 L 166.0 168.0 L 166.0 165.5 L 167.3 165.5 L 167.3 163.0 L 166.0 163.0 L 166.0 160.0 L 172.0 160.0 L 172.0 155.0 L 177.0 155.0 L 177.0 160.0 L 181.0 160.0 L 181.0 169.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="172.0" cy="176.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<g id="Sketch046" transform="translate(-0.979000,296.021000) scale(1,-1)">
+<path id="Sketch046_w0000"  d="M 169.0 111.25 L 169.0 121.0 A 2 2 0 0 1 167 123L 138.0 123.0 A 2 2 0 0 1 136 121L 136.0 111.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<path id="Sketch046_w0001"  d="M 136.0 110.75 L 136.0 101.0 L 140.0 101.0 L 140.0 96.0 L 145.0 96.0 L 145.0 101.0 L 151.0 101.0 L 151.0 104.0 L 149.7 104.0 L 149.7 106.5 L 151.0 106.5 L 151.0 109.0 L 154.0 109.0 L 154.0 106.5 L 155.3 106.5 L 155.3 104.0 L 154.0 104.0 L 154.0 101.0 L 160.0 101.0 L 160.0 96.0 L 165.0 96.0 L 165.0 101.0 L 169.0 101.0 L 169.0 110.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="160.0" cy="117.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>Sketch046</title>
-</g>
-<g id="Sketch018" transform="translate(-0.970000,296.030000) scale(1,-1)">
-<path id="Sketch018_w0000"  d="M 151.617357665 116.656880734 L 153.258934092 100.473394495 A 1.75 1.75 0 0 1 156.741 100.473L 158.382642335 116.656880734 A 3.4 3.4 0 1 1 151.617 116.657" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch018_w0001"  d="M 146.0 106.75 L 146.0 117.0 L 146.0 126.0 L 164.0 126.0 L 164.0 117.0 L 164.0 106.75 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<path id="Sketch018_w0002"  d="M 146.0 106.25 L 146.0 96.0 L 164.0 96.0 L 164.0 106.25 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch014</title>
 </g>
 </svg>
