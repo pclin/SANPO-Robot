@@ -10,7 +10,7 @@ The 2D model of this robot is for laser cut with A4-sized 3mm acrylic sheet or M
 
 YouTube video:
 
-<https://www.youtube.com/watch?v=cjdiBbQUoHg>
+<<https://www.youtube.com/playlist?list=PLiMSRllbSoU1mxb2oFjjZN1W6O2xebB20>>
 
 
 
