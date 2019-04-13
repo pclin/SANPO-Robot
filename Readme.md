@@ -2,16 +2,23 @@
 
 ![image](https://github.com/pclin/SANPO-Robot/blob/master/image/SANPO-Robot.jpg)
 
-SANPO Robot is a 6DoF biped robot with two arms.
+SANPO (散步) Robot is a 6DoF biped robot with two arms.
 
-Inspired by Otto Robot (<https://www.ottodiy.com>).
+Inspired by Otto Robot (https://www.ottodiy.com).
+
+SANPO Robot is easy to build with off-the-shelf components such as Arduino Nano and servo motors.
 
 The 2D model of this robot is for laser cut with A4-sized 3mm acrylic sheet or Medium Density Fiberboard (MDF).
 
 YouTube video:
 
-<<https://www.youtube.com/playlist?list=PLiMSRllbSoU1mxb2oFjjZN1W6O2xebB20>>
+https://youtu.be/cjdiBbQUoHg
 
+https://youtu.be/ORvsIMcSXQo
 
+Assembly video:
+
+https://youtu.be/K-bK8iXXIc4
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
