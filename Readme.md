@@ -12,13 +12,13 @@ The 2D model of this robot is for laser cut with A4-sized 3mm acrylic sheet or M
 
 YouTube video:
 
-https://youtu.be/cjdiBbQUoHg
+https://www.youtube.com/watch?v=cjdiBbQUoHg
 
-https://youtu.be/ORvsIMcSXQo
+https://www.youtube.com/watch?v=ORvsIMcSXQo
 
 Assembly video:
 
-https://youtu.be/K-bK8iXXIc4
+https://www.youtube.com/watch?v=K-bK8iXXIc4
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
