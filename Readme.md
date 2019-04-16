@@ -1,6 +1,10 @@
+English | [正體中文](#SANPO-機器人)
+
 # SANPO Robot
 
-![image](https://github.com/pclin/SANPO-Robot/blob/master/image/SANPO-Robot.jpg)
+<!---->![image](https://github.com/pclin/SANPO-Robot/blob/master/image/SANPO-Robot.jpg)
+
+<img src="https://github.com/pclin/SANPO-Robot/blob/master/image/SANPO-Robot.jpg" width="200px" />
 
 SANPO (散步) Robot is a 6DoF biped robot with two arms.
 
@@ -21,4 +25,10 @@ Assembly video:
 https://www.youtube.com/watch?v=K-bK8iXXIc4
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+------
+
+[English](#SANPO-Robot) | [正體中文
+
+# SANPO 機器人
 
